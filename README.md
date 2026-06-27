@@ -4,6 +4,16 @@ A Power BI business intelligence solution designed for MediCare Pharmacy Chain (
 
 ---
 
+##  Dashboard Screenshots
+
+### Inventory & Demand Dashboard
+![Inventory Dashboard](Screenshot_2026-06-27_144658.png)
+
+### Expiry & Supplier Monitoring Dashboard
+![Expiry Dashboard](Screenshot_2026-06-27_144712.png)
+
+---
+
 ##  Dashboard Overview
 
 Built to replace a fragmented manual spreadsheet system with a centralised, data-driven BI solution monitoring:
@@ -40,6 +50,8 @@ Built to replace a fragmented manual spreadsheet system with a centralised, data
 |------|-------------|
 | `Imnah_Ifthikar_-_POWER_BI.pbix` | Full interactive Power BI dashboard |
 | `medicare_pharmacy_data.csv` | Pharmacy sales and inventory dataset |
+| `Screenshot_2026-06-27_144658.png` | Inventory & Demand Dashboard screenshot |
+| `Screenshot_2026-06-27_144712.png` | Expiry & Supplier Monitoring Dashboard screenshot |
 
 ---
 
