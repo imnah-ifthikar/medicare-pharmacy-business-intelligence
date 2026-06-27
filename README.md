@@ -41,7 +41,13 @@ Built to replace a fragmented manual spreadsheet system with a centralised, data
 
 ##  Tools & Technologies
 
-`Power BI` `DAX` `Power Query` `Python` `SQL` `Microsoft Excel` `CSV`
+Power BI
+DAX
+Power Query
+Python
+SQL 
+Microsoft Excel 
+CSV
 
 ---
 
